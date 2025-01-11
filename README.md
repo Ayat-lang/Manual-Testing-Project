@@ -49,7 +49,13 @@ import the file JSON File to the postman
 
 Then execute
 
-# Feedback and test analysis
+## TO do happy path Test Case for API and UI 
+
+```bash
+   https://docs.google.com/spreadsheets/d/1v1ZSiqKDnuRBJiWqt837dJVFCso3vgcD/edit?gid=1042988575#gid=1042988575
+```
+
+## Feedback and test analysis
 
 ```bash
    https://docs.google.com/document/d/1mhExIzFPRlxWjjzQ50AbXnuwtnAi3i0U/edit?usp=sharing&ouid=116929954267332654880&rtpof=true&sd=true
