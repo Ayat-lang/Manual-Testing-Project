@@ -43,9 +43,9 @@ Clone the Project
    git clone https://github.com/Ayat-lang/Manual-Testing-Project.git
 ```
 
-## Download the postman
-## import the file JSON File to the postman
-## Then execute
+Download the postman
+import the file JSON File to the postman
+Then execute
 
 # Feedback and test analysis
 
